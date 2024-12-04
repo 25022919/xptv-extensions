@@ -10,7 +10,7 @@ let appConfig = {
         {
             name: 'Trending',
             ext: {
-                href: '/trending/duration/30+ min',
+                href: '/trending/duration/30+',
             },
             ui: 1,
         },
