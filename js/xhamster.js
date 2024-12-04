@@ -8,9 +8,9 @@ let appConfig = {
     site: 'https://xhamster.com/gay',
     tabs: [
         {
-            name: 'Full Length',
+            name: 'Full video',
             ext: {
-                href: '/Full Length',
+                href: '/Full video',
             },
             ui: 1,
         },
