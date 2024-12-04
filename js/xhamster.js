@@ -8,9 +8,9 @@ let appConfig = {
     site: 'https://zh.xhamster.com/gay',
     tabs: [
         {
-            name: 'newest',
+            name: 'trending',
             ext: {
-                href: '/newest',
+                href: '/trending',
             },
             ui: 1,
         },
