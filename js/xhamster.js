@@ -8,7 +8,7 @@ let appConfig = {
     site: 'https://xhamster.com/gay',
     tabs: [
         {
-            name: 'trending',
+            name: 'Trending Full-Length',
             ext: {
                 href: '/trending',
             },
