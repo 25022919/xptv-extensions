@@ -5,7 +5,7 @@ const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
 let appConfig = {
     ver: 1,
     title: 'xhamster',
-    site: 'https://zh.xhamster.com/gay',
+    site: 'https://xhamster.com/gay',
     tabs: [
         {
             name: 'trending',
