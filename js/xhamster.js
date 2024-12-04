@@ -10,7 +10,7 @@ let appConfig = {
         {
             name: 'Trending Full-Length',
             ext: {
-                href: '/trending',
+                href: '/Trending Full-Length',
             },
             ui: 1,
         },
