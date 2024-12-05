@@ -15,9 +15,9 @@ let appConfig = {
             ui: 1,
         },
         {
-            name: 'weekly best',
+            name: 'trending',
             ext: {
-                href: '/best/weekly',
+                href: '/trending/?min-duration=30',
             },
             ui: 1,
         },
